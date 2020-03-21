@@ -5,4 +5,4 @@ Steps to run the code:
 2. Go to the folder and create environment: conda env create -f env.yml
 3. Activate the environment: conda activate ml
 4. Run Jupyter Server: jupyter notebook
-5. A web browser should open. Open the assignment1.ipynb and run all cells
+5. A web browser should open. Open the assignment3.ipynb and run all cells
