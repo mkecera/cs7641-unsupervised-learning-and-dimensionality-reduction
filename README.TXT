@@ -1,4 +1,4 @@
-Link to the code and data: https://github.com/mkecera/cs7641-supervised-learning
+Link to the code and data: https://github.com/mkecera/cs7641-unsupervised-learning-and-dimensionality-reduction
 All used libraries are saved in env.yml
 Steps to run the code:
 1. Install Anaconda https://docs.anaconda.com/anaconda/install/
